@@ -17,10 +17,9 @@ Este aplicativo web consiste en un taller simple, diseñado para explorar y pone
 ### ¿Cómo Funciona?
 
 1. Descarga el taller en formato PDF haciendo clic en el siguiente enlace:
-   [Descargar Taller en PDF](URL_DEL_PDF)
+   [Descargar Taller en PDF](EjerciciosReact_2023_1.pdf)
 
-2. En el PDF, encontrarás una serie de problemas relacionados con componentes, hooks y renderizado de HTML.
+2. En el PDF, encontrarás una serie de problemas.
 
 3. Desafíate a ti mismo(a) a resolver estos problemas. Analiza el código proporcionado en este repositorio y utilízalo como referencia para comprender y resolver cada desafío.
 
-4. ¡No dudes en explorar, experimentar y aprender durante el proceso!

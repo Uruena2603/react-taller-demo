@@ -1,0 +1,20 @@
+/* Estilo para el cuerpo del documento */
+body {
+    margin: auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif; /* Cambia la fuente predeterminada a Roboto o una fuente sans-serif */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 16px; /* Ajusta el tamaño de fuente base según tus preferencias */
+  }
+  
+  /* Estilo para el código */
+  code {
+    font-family: 'Source Code Pro', Menlo, Monaco, Consolas, 'Courier New', monospace; /* Cambia la fuente para código a Source Code Pro o una fuente monoespaciada */
+    font-size: 14px; /* Ajusta el tamaño de fuente para código según tus preferencias */
+    color: #333; /* Cambia el color de texto para código a un tono más oscuro para mejor legibilidad */
+    background-color: #f0f0f0; /* Cambia el color de fondo para código a gris claro para mayor contraste */
+    padding: 4px 6px; /* Añade un poco de padding para un mejor aspecto en el código */
+    border-radius: 3px; /* Añade bordes redondeados para un aspecto más estilizado */
+  }
+  

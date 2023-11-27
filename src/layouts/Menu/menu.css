@@ -1,0 +1,33 @@
+/* Estilo para el margen superior e inferior */
+.css {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para el enlace con clase .l1 */
+  .l1 {
+    text-decoration: none;
+    color: #ff6347; /* Cambia el color a rojo coral */
+    /* Añade estilos adicionales para un aspecto más estilizado */
+    padding: 10px 20px; /* Ajusta el padding para una mejor apariencia */
+    border: none;
+    background-color: #f0f0f0; /* Cambia el color de fondo a gris claro */
+    cursor: pointer;
+    font-family: Arial, sans-serif; /* Cambia el tipo de letra a Arial o una fuente sans-serif */
+    font-weight: bold; /* Añade negrita para mayor énfasis */
+    text-transform: uppercase; /* Cambia el texto a mayúsculas */
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out; /* Añade transiciones suaves para el color de fondo y el color del texto */
+  }
+  
+  /* Cambia el color del enlace y el fondo al pasar el cursor por encima */
+  .l1:hover {
+    color: #fff; /* Cambia el color del texto a blanco */
+    background-color: #ff6347; /* Cambia el color de fondo a rojo coral */
+  }
+  
+  /* Cambia el color del enlace y el fondo al hacer clic */
+  .l1:active {
+    color: #fff; /* Cambia el color del texto a blanco */
+    background-color: #ff6347; /* Cambia el color de fondo a rojo coral */
+  }
+  

@@ -17,7 +17,7 @@ Este aplicativo web consiste en un taller simple, diseñado para explorar y pone
 ### Desafía tus Habilidades en React
 
 1. Descarga el taller en formato PDF haciendo clic en el siguiente enlace:
-   [Descargar Taller en PDF](EjerciciosReact_2023_1.pdf)
+   [Descargar Taller en PDF](tallerREACT.pdf)
 
 2. En el PDF encontrarás una serie de problemas.
 

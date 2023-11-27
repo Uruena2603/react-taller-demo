@@ -14,6 +14,8 @@ Este aplicativo web consiste en un taller simple, diseñado para explorar y pone
 
 - **Renderización de HTML:** Aprendo a renderizar contenido HTML de manera eficiente utilizando JSX, la sintaxis de JavaScript extendida que React utiliza.
 
+- **Componentes:** Exploro el proceso de creación y aplicación de componentes en React, facilitando la modularidad y reutilización del código.
+
 ### Desafía tus Habilidades en React
 
 1. Descarga el taller en formato PDF haciendo clic en el siguiente enlace:
